@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4",MX_SK6812MINI-E_GOOD,4,SK6812MINI-E,
+"SW1, SW2, SW3, SW4",MX-Solderable-1U,4,MX,
+U1,XIAO-RP2040-THT,1,XIAO-RP2040-DIP,
